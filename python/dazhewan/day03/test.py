@@ -1,0 +1,6 @@
+test1=input("请输入第一行文字 ")
+test2=input("请输入第一行文字 ")
+test3=input("请输入第一行文字 ")
+print(test1.center(30))
+print(test2.center(30))
+print(test3.center(30))
