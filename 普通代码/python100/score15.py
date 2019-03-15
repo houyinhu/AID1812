@@ -1,0 +1,18 @@
+# 题目 利用条件运算符的嵌套来完成此题：学习成绩>=90分的同学用A表示，
+# 60-89分之间的用B表示，60分以下的用C表示。
+score=int(input("请输入你的分数"))
+# level='A' if score>89 else 'B' 
+# print(level)
+
+
+level=0
+if score>89:
+    level='A'
+elif 59<score<90:
+    level='B'
+elif level<60:
+    level='C' 
+print("你的分数属于",level)
+
+
+

@@ -1,0 +1,9 @@
+Changed in version 3.1: Added the optional flags argument.
+Dajf'e
+Changed in version 3.5: Unmatched groups are replaced with an empty string.
+onLine Line-1
+Changed in version 3.6: Unknown escapes in pattern consisting of '\' and an ASCII letter now are errors.
+2019-12-2 2018-5-9
+Changed in version 3.7: Unknown escapes in repl consisting of '\' and an ASCII letter now are errors.
+3.2
+Empty matches for the pattern are replaced when adjacent to a previous non-empty match.

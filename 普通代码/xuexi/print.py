@@ -1,0 +1,17 @@
+print(1,2,3,4)
+print(1,2,3,4,sep='')
+print(1,2,3,4,sep='#')
+print(1,2,3,4,sep='<--->')
+print(1,2,3,4,sep='')
+print(1,2,3,4)
+print(1,2,3,4,sep=' ',end='\n')
+print(5,6,7,8,end='\n')
+print(9,10,end='\n')
+print(1,2,3,4,sep=' ',end='\n')
+print("hello",end='')  
+print("china")
+print("hello",end='\n\n\n')
+print("china")
+print("AAAA",end='',flush='True')
+while True:
+    pass

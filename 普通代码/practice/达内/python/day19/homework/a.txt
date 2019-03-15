@@ -1,0 +1,5 @@
+car1 = Car("1",'GOLF','400','否')
+        self.cars.append(car1)
+        self.cars.append(Car("2",'audi','1000','否'))
+        self.cars.append(Car("3",'奥迪','500','否'))
+        self.cars.append(Car("4",'宝来','450','否'))
